@@ -1,3 +1,9 @@
+-----
+This repo contains an implementation of an advanced image processing pipeline including Camera Calibration, Perspective Transform, Sobel and Polynomial Curve Fitting for lane detection.  It is built on Udacity's Self-Driving Car Nanodegree CarND-Advanced-Lane-Lines project.
+
+The description below comes from the original repo (https://github.com/udacity/CarND-Advanced-Lane-Lines.git).
+
+-----
 ## Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 ![Lanes Image](./examples/example_output.jpg)
